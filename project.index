@@ -1,0 +1,15 @@
+cm1/conf.php	g$BACK_PATH	o113	g$MCONF	o146
+mod1/locallang.php	g$LOCAL_LANG	o122	p6	l114
+ext_emconf.php	g$EM_CONF	o348	g$_EXTKEY	o357
+cm1/locallang.php	g$LOCAL_LANG	o115	p6	l107
+mod1/class.host_manager.php	chostManager	o1071	khostManager	o1096	mgetContent	o1130
+locallang_db.php	g$LOCAL_LANG	o152	p6	l144
+mod1/conf.php	g$BACK_PATH	o114	g$MCONF	o147	g$MCONF	o189	g$MCONF	o220	g$MLANG	o251	g$MLANG	o311
+ext_tables.php	g$_EXTKEY	o163	g$GLOBALS	o212	g$_EXTKEY	o357	g$TCA	o404	g$_EXTKEY	o812	g$_EXTKEY	o874	g$TCA	o1126	g$_EXTKEY	o1538	g$_EXTKEY	o1600	g$TCA	o1724	g$_EXTKEY	o2144	g$_EXTKEY	o2206	g$TCA	o2332	g$_EXTKEY	o2757	g$_EXTKEY	o2819
+tca.php	g$TCA	o61	g$TCA	o109	g$TCA	o353	g$TCA	o4373	g$TCA	o4421	g$TCA	o4584	g$TCA	o5266	g$TCA	o5320	g$TCA	o5449	g$TCA	o6090	g$TCA	o6147	g$TCA	o6306
+class.tx_dnsmanager_cm1.php	ctx_dnsmanager_cm1	o1053	mmain	o1083	g$BE_USER	o1133	g$TCA	o1142	g$LANG	o1147	mincludeLL	o2512	p2399	l102	g$TYPO3_CONF_VARS	o2651	g$TYPO3_CONF_VARS	o2754
+mod1/index.php	g$MCONF	o1118	g$BACK_PATH	o1159	g$BACK_PATH	o1192	g$LANG	o1292	g$BE_USER	o1432	g$MCONF	o1452	ctx_dnsmanager_module1	o1594	vpageinfo	o1645	minit	o1681	p1657	l13	g$BE_USER	o1699	g$LANG	o1708	g$BACK_PATH	o1714	g$TCA_DESCR	o1725	g$TCA	o1736	g$CLIENT	o1741	g$TYPO3_CONF_VARS	o1749	mmenuConfig	o2009	p1913	l85	g$LANG	o2033	mmain	o2542	p2454	l77	g$BE_USER	o2560	g$LANG	o2569	g$BACK_PATH	o2575	g$TCA_DESCR	o2586	g$TCA	o2597	g$CLIENT	o2602	g$TYPO3_CONF_VARS	o2610	mprintContent	o5200	p5150	l39	mmoduleContent	o5340	p5288	l41	g$TYPO3_CONF_VARS	o5930	g$TYPO3_CONF_VARS	o6020	g$SOBE	o6119	g$SOBE	o6177	g$SOBE	o6219	g$INC_FILE	o6242	g$INC_FILE	o6266	g$SOBE	o6279	g$SOBE	o6294
+mod1/locallang_mod.php	g$LOCAL_LANG	o144	p6	l136
+mod1/class.zone_manager.php	czoneManager	o1071	kzoneManager	o1096	mgetContent	o1130
+locallang.php	g$LOCAL_LANG	o116	p6	l108
+cm1/index.php	g$MCONF	o1087	g$BACK_PATH	o1126	g$BACK_PATH	o1201	g$BACK_PATH	o1223	g$BACK_PATH	o1256	g$LANG	o1284	ctx_dnsmanager_cm1	o1514	mmenuConfig	o1652	p1556	l85	g$LANG	o1676	mmain	o1977	p1889	l77	g$BE_USER	o1995	g$LANG	o2004	g$BACK_PATH	o2010	g$TCA_DESCR	o2021	g$TCA	o2032	g$CLIENT	o2037	g$TYPO3_CONF_VARS	o2045	mprintContent	o3743	mmoduleContent	o3840	g$TYPO3_CONF_VARS	o4931	g$TYPO3_CONF_VARS	o5020	g$SOBE	o5118	g$SOBE	o5172	g$SOBE	o5189	g$SOBE	o5204
